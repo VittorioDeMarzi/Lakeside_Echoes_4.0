@@ -1029,6 +1029,10 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+			.wrapper.style3 h2 {
+				text-align: center;
+			}
+
 			.wrapper.style3 hr {
 				border-color: rgba(0, 0, 0, 0.125);
 			}
@@ -1843,7 +1847,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size:contain;
 
 		padding-top: 0;
 	}
@@ -1854,6 +1858,7 @@ input, select, textarea {
 
 	body.is-mobile.landing #page-wrapper {
 		/* background: none; */
+		background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.65)), url("../../images/mixFormaFlyier_Header.jpg");
 		background-position: 20% center;
 	}
 
