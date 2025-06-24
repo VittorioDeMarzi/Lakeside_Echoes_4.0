@@ -1859,7 +1859,7 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.65)), url("../../images/Header_Forma.jpg");
+		background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.65)), url("../../images/mixFormaFlyier_Header.jpg");
 		background-attachment: scroll;
 		background-position: center center;
 		background-repeat: no-repeat;
